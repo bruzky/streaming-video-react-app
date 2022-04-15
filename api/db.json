@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "Test Stream",
+      "description": "Watch this!...",
+      "id": 1
+    },
+    {
+      "title": "Whatever",
+      "description": "Not much here",
+      "id": 2
+    },
+    {
+      "title": "Great Stream",
+      "description": "The greatest ever",
+      "id": 3
+    },
+    {
+      "title": "My First Stream",
+      "description": "This was made by me! (editted)",
+      "id": 4
+    },
+    {
+      "title": "My Second Stream",
+      "description": "Using this for filtering exercise",
+      "userId": "104946024167825764044",
+      "id": 5
+    },
+    {
+      "title": "React Final Form (RFF)",
+      "description": "Testing the RFF library refactor",
+      "userId": "104946024167825764044",
+      "id": 6
+    }
+  ]
+}
